@@ -30,3 +30,4 @@ Contributors (chronological)
 - Daniel Ong `@danong <https://github.com/danong>`_
 - Jamie Moschella `@jammmo <https://github.com/jammmo>`_
 - Roman Korolev `@roman-y-korolev <https://github.com/roman-y-korolev>`_
+- Richard Li `@bxl3243 <https://github.com/bxl3243>`_
